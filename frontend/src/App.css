@@ -1,0 +1,24 @@
+.layout {
+  min-height: 100vh;
+}
+
+.ant-layout-header {
+  background: #001529;
+  padding: 0 50px;
+}
+
+.ant-layout-content {
+  background: #fff;
+}
+
+.ant-card {
+  margin-bottom: 20px;
+}
+
+.ant-progress-circle {
+  margin-right: 20px;
+}
+
+.ant-list-item {
+  padding: 12px 0;
+} 
