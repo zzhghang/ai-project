@@ -121,3 +121,21 @@ async def upload_xmind(file: UploadFile = File(...)):
 4. 项目实践加深了对测试用例质量评估标准的理解
 
 本项目作为测试用例管理工具的有益尝试，不仅提供了实用的分析功能，也为后续的功能扩展和优化提供了良好的基础。通过持续改进和优化，期望能为测试团队提供更好的支持。
+
+## 四、具体操作截图
+
+![image](https://github.com/user-attachments/assets/013e67c8-c6eb-43a0-8044-9359392a8221)
+![image](https://github.com/user-attachments/assets/8c6edc36-8f45-4813-b71d-08f06746749e)
+![image](https://github.com/user-attachments/assets/f2d6db42-f338-4317-9727-a8f442c8b3f4)
+![image](https://github.com/user-attachments/assets/8365cd0c-7b00-424e-bcc3-067b0b2cdcdf)
+![image](https://github.com/user-attachments/assets/ef81e190-dd22-43d4-8f21-61be5e789b60)
+![image](https://github.com/user-attachments/assets/66f19ab8-f7d2-4b15-918b-6223cffb6c6c)
+
+
+
+
+
+
+
+
+
